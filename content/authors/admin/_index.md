@@ -44,7 +44,7 @@ profiles:
 
 interests:
   - ⚒️ Data Mining
-  - 🤖Machine Learning
+  - 🤖 Machine Learning
   - 🔗 Complex Networks
   - 🌎 GeoInformatics
 
@@ -123,8 +123,6 @@ skills:
         icon: dog
 
 languages:
-  - name: Spanish
-    percent: 25
   - name: English
     percent: 100
   - name: Portuguese
