@@ -164,4 +164,4 @@ awards:
 
 ## About Me
 
-I am an Assistant Professor at the Faculty of Computer Science at Dalhousie University, Halifax - NS, Canada. I hold a Ph.D. and an MSc in Computer Science and Computational Mathematics from the University of Sao Paulo, Sao Carlos - SP, Brazil. My research focuses on spatio-temporal data modeling, time-series forecasting, complex network analysis, and physics-informed neural networks, with a deep involvement in Data Science and Engineering, GeoInformatics, and a particular interest in mobility-related problems.
+I am an Assistant Professor at the Faculty of Computer Science at Dalhousie University, Halifax - NS, Canada. I hold a Ph.D. and an MSc in Computer Science from the University of Sao Paulo, Sao Carlos - SP, Brazil. My research focuses on spatio-temporal data modeling, time-series forecasting, complex network analysis, and physics-informed neural networks, with a deep involvement in Data Science and Engineering, GeoInformatics, and a particular interest in mobility-related problems.
