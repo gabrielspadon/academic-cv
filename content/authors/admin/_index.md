@@ -11,7 +11,7 @@ last_name: Spadon
 
 # Status emoji
 status:
-  icon: ☕️
+  icon: 🚀 
 
 # Is this the primary user of the site?
 superuser: true
@@ -20,40 +20,37 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Chief Scientist
+role: Assistant Professor
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: OpenAI
-    url: https://openai.com/
+  - name: Dalhousie Univeristy
+    url: https://www.dal.ca/faculty/computerscience.html
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
+    url: 'mailto:spadon@dal.ca'
     label: E-mail Me
-  - icon: brands/x
-    url: https://twitter.com/GetResearchDev
-  - icon: brands/instagram
-    url: https://www.instagram.com/
   - icon: brands/github
-    url: https://github.com/gcushen
+    url: https://github.com/gabrielspadon
   - icon: brands/linkedin
-    url: https://www.linkedin.com/
+    url: https://www.linkedin.com/in/gabrielspadon/
   - icon: academicons/google-scholar
-    url: https://scholar.google.com/
+    url: https://scholar.google.com/citations?user=bfdGsGUAAAAJ&hl=en
   - icon: academicons/orcid
-    url: https://orcid.org/
+    url: https://orcid.org/0000-0001-8437-4349
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Data Mining
+  - Machine Learning
+  - Complex Networks
+  - GeoInformatics
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
+  - area: PhD Computer Science
+    institution: University of Sao Paulo (USP)
     date_start: 2016-01-01
     date_end: 2020-12-31
     summary: |
@@ -61,8 +58,8 @@ education:
     button:
       text: 'Read Thesis'
       url: 'https://example.com'
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
+  - area: MEng Computer Science
+    institution: University of Sao Paulo (USP)
     date_start: 2016-01-01
     date_end: 2020-12-31
     summary: |
@@ -72,8 +69,8 @@ education:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
+  - area: BSc Computer Science
+    institution: Sao Paulo State University (UNESP)
     date_start: 2016-01-01
     date_end: 2020-12-31
     summary: |
