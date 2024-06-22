@@ -53,8 +53,7 @@ education:
     institution: University of Sao Paulo (USP)
     date_start: 2016-01-01
     date_end: 2020-12-31
-    summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
+    summary:
     button:
       text: 'Read Thesis'
       url: 'https://example.com'
@@ -62,24 +61,12 @@ education:
     institution: University of Sao Paulo (USP)
     date_start: 2016-01-01
     date_end: 2020-12-31
-    summary: |
-      GPA: 3.8/4.0
-
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+    summary:
   - area: BSc Computer Science
     institution: Sao Paulo State University (UNESP)
     date_start: 2016-01-01
     date_end: 2020-12-31
-    summary: |
-      GPA: 3.4/4.0
-      
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+    summary:
 work:
   - position: Director of Cloud Infrastructure
     company_name: GenCoin
@@ -129,22 +116,18 @@ skills:
         description: ''
         percent: 60
         icon: person-simple-walk
-      - name: Cats
+      - name: Dogs
         description: ''
         percent: 100
-        icon: cat
-      - name: Photography
-        description: ''
-        percent: 80
-        icon: camera
+        icon: dog
 
 languages:
+  - name: Spanish
+    percent: 25
   - name: English
     percent: 100
-  - name: Chinese
-    percent: 75
   - name: Portuguese
-    percent: 25
+    percent: 100
 
 # Awards.
 #   Add/remove as many awards below as you like.
