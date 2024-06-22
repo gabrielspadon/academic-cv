@@ -1,1 +1,1 @@
-Adapted from [Hugo Academic CV Theme](https://github.com/HugoBlox/theme-academic-cv).
+*Website generated based on the [Hugo Academic CV Theme](https://github.com/HugoBlox/theme-academic-cv).*
