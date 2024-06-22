@@ -11,7 +11,7 @@ last_name: Spadon
 
 # Status emoji
 status:
-  icon: 🚀 
+  icon: 💭
 
 # Is this the primary user of the site?
 superuser: true
@@ -50,23 +50,25 @@ interests:
 
 education:
   - area: PhD Computer Science
-    institution: University of Sao Paulo (USP)
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary:
+    institution: USP - University of Sao Paulo
+    date_start: 2017
+    date_end: 2021
+    summary: TODO
     button:
       text: 'Read Thesis'
       url: 'https://example.com'
-  - area: MEng Computer Science
-    institution: University of Sao Paulo (USP)
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary:
+  - area: MSc Computer Science
+    institution: USP - University of Sao Paulo
+    date_start: 2015
+    date_end: 2017
+    summary: TODO
+      text: 'Read Thesis'
+      url: 'https://example.com'
   - area: BSc Computer Science
-    institution: Sao Paulo State University (UNESP)
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary:
+    institution: UNESP - Sao Paulo State University
+    date_start: 2011
+    date_end: 2025
+    summary: TODO
 work:
   - position: Director of Cloud Infrastructure
     company_name: GenCoin
