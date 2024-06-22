@@ -43,10 +43,10 @@ profiles:
     url: https://orcid.org/0000-0001-8437-4349
 
 interests:
-  ⚒️ Data Mining
-  🤖 Machine Learning
-  🛰️ Complex Networks
-  🌎 GeoInformatics
+  - ⚒️ Data Mining
+  - 🤖 Machine Learning
+  - 🔗 Complex Networks
+  - 🌎 GeoInformatics
 
 education:
   - area: PhD Computer Science
