@@ -6,7 +6,7 @@
 # Appearance
 appearance:
   mode: system
-  color: #3169bd
+  color: #2a5d82
 
 # SEO
 marketing:
@@ -57,4 +57,4 @@ features:
   math:
     enable: true
   privacy_pack:
-    enable: true
+    enable: false
