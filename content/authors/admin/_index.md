@@ -11,7 +11,7 @@ last_name: Spadon
 
 # Status emoji
 status:
-  icon: 💡
+  icon: 🇧🇷
 
 # Is this the primary user of the site?
 superuser: true
@@ -43,32 +43,31 @@ profiles:
     url: https://orcid.org/0000-0001-8437-4349
 
 interests:
-  - ⚒️ Data Mining
-  - 🤖 Machine Learning
-  - 🔗 Complex Networks
-  - 🌎 GeoInformatics
+  - Data Mining ⚒️
+  - Machine Learning 🤖
+  - Complex Networks 🔗
+  - GeoInformatics 🌎
 
 education:
   - area: PhD Computer Science
-    institution: USP - University of Sao Paulo
+    institution: USP -- University of Sao Paulo
     date_start: 2017
     date_end: 2021
     summary: |
     button:
       text: 'Read Thesis'
-      url: 'https://example.com'
+      url: 'https://www.teses.usp.br/teses/disponiveis/55/55134/tde-01092021-104851/en.php'
   - area: MSc Computer Science
-    institution: USP - University of Sao Paulo
+    institution: USP -- University of Sao Paulo
     date_start: 2015
     date_end: 2017
     summary: |
-      text: 'Read Thesis'
-      url: 'https://example.com'
+      text: 'Read Dissertation'
+      url: 'https://www.teses.usp.br/teses/disponiveis/55/55134/tde-29092017-100417/en.php'
   - area: BSc Computer Science
-    institution: UNESP - Sao Paulo State University
+    institution: UNESP -- Sao Paulo State University
     date_start: 2011
     date_end: 2025
-    summary: TODO
 work:
   - position: Director of Cloud Infrastructure
     company_name: GenCoin
