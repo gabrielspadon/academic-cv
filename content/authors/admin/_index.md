@@ -53,7 +53,7 @@ education:
     institution: USP - University of Sao Paulo
     date_start: 2017
     date_end: 2021
-    summary: TODO
+    summary: |
     button:
       text: 'Read Thesis'
       url: 'https://example.com'
@@ -61,7 +61,7 @@ education:
     institution: USP - University of Sao Paulo
     date_start: 2015
     date_end: 2017
-    summary: TODO
+    summary: |
       text: 'Read Thesis'
       url: 'https://example.com'
   - area: BSc Computer Science
