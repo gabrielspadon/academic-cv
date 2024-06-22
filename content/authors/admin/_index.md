@@ -43,14 +43,14 @@ profiles:
     url: https://orcid.org/0000-0001-8437-4349
 
 interests:
-  - Data Mining ⚒️
-  - Machine Learning 🤖
-  - Complex Networks 🔗
-  - GeoInformatics 🌎
+  - ⚒️ Data Mining
+  - 🤖Machine Learning
+  - 🔗 Complex Networks
+  - 🌎 GeoInformatics
 
 education:
   - area: PhD Computer Science
-    institution: USP -- University of Sao Paulo
+    institution: USP - University of Sao Paulo
     date_start: 2017
     date_end: 2021
     summary: |
@@ -58,14 +58,14 @@ education:
       text: 'Read Thesis'
       url: 'https://www.teses.usp.br/teses/disponiveis/55/55134/tde-01092021-104851/en.php'
   - area: MSc Computer Science
-    institution: USP -- University of Sao Paulo
+    institution: USP - University of Sao Paulo
     date_start: 2015
     date_end: 2017
     summary: |
       text: 'Read Dissertation'
       url: 'https://www.teses.usp.br/teses/disponiveis/55/55134/tde-29092017-100417/en.php'
   - area: BSc Computer Science
-    institution: UNESP -- Sao Paulo State University
+    institution: UNESP - Sao Paulo State University
     date_start: 2011
     date_end: 2025
 work:
@@ -164,4 +164,4 @@ awards:
 
 ## About Me
 
-I am a Postdoctoral Fellow at the Institute for Big Data Analytics (IBDA) at Dalhousie University (DAL), Canada, co-hosted by the Oceanix group at IMT Atlantique, France. I have a Ph.D. and an MSc from the University of Sao Paulo, Brazil, with a session at the Georgia Institute of Technology, USA. I am longstanding involved in Data Science and Engineering, GeoInformatics, and Machine Learning. My research focuses on spatio-temporal data modeling, time-series forecasting, complex network analysis, and physics-informed neural networks, with an interest in mobility-related problems.
+I am an Assistant Professor at the Faculty of Computer Science at Dalhousie University, Halifax - NS, Canada. I hold a Ph.D. and an MSc in Computer Science and Computational Mathematics from the University of Sao Paulo, Sao Carlos - SP, Brazil. My research focuses on spatio-temporal data modeling, time-series forecasting, complex network analysis, and physics-informed neural networks, with a deep involvement in Data Science and Engineering, GeoInformatics, and a particular interest in mobility-related problems.
