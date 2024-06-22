@@ -11,7 +11,7 @@ last_name: Spadon
 
 # Status emoji
 status:
-  icon: 💭
+  icon: 💡
 
 # Is this the primary user of the site?
 superuser: true
@@ -165,4 +165,4 @@ awards:
 
 ## About Me
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am a Postdoctoral Fellow at the Institute for Big Data Analytics (IBDA) at Dalhousie University (DAL), Canada, co-hosted by the Oceanix group at IMT Atlantique, France. I have a Ph.D. and an MSc from the University of Sao Paulo, Brazil, with a session at the Georgia Institute of Technology, USA. I am longstanding involved in Data Science and Engineering, GeoInformatics, and Machine Learning. My research focuses on spatio-temporal data modeling, time-series forecasting, complex network analysis, and physics-informed neural networks, with an interest in mobility-related problems.
