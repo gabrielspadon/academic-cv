@@ -1,6 +1,6 @@
 ---
-title: Open Doctoral (PhD) Positions in Computer Science at Dalhousie University
-summary:
+title: 📢 Open PhD Positions in Computer Science at Dalhousie University
+summary: Doctoral with specialization in Machine Learning for Ocean Mobility Data Mining
 date: 2024-06-23
 
 # Featured image
@@ -14,69 +14,45 @@ tags:
   - Academic
 ---
 
-Welcome 👋
-
 {{< toc mobile_only=true is_open=true >}}
 
-## Overview
+# Doctoral (PhD) student position in Computer Science with specialization in Machine Learning for Ocean Mobility Data Mining
 
-1. The Hugo Blox website builder for Hugo, along with its starter templates, is designed for professional creators, educators, and teams/organizations - although it can be used to create any kind of site
-2. The template can be modified and customised to suit your needs. It's a good platform for anyone looking to take control of their data and online identity whilst having the convenience to start off with a **no-code solution (write in Markdown and customize with YAML parameters)** and having **flexibility to later add even deeper personalization with HTML and CSS**
-3. You can work with all your favourite tools and apps with hundreds of plugins and integrations to speed up your workflows, interact with your readers, and much more
+## Introduction
 
-[//]: # ([![The template is mobile first with a responsive design to ensure that your site looks stunning on every device.]&#40;https://raw.githubusercontent.com/wowchemy/wowchemy-hugo-modules/main/starters/academic/preview.png&#41;]&#40;https://hugoblox.com&#41;)
+Mobility is crucial for human life as it affects various aspects of our biology, society, economy, and culture. Human movement has historically influenced societies through population and environmental changes, and it continues to be a natural occurrence despite modern limitations. Similarly, maritime transportation has been fundamental to global trade since the Age of Exploration. It remains one of the most important methods of coordinating and moving goods, accounting for over 80% of the world's trade volume today. The ability to move efficiently across vast distances by sea has not only shaped economic landscapes but also fostered cultural exchange and technological advancements, underscoring the enduring significance of mobility in all its forms.
 
-### Get Started
+Mobility data refers to sequences of positional data that change over time, showing the movement of people, objects, or animals from one place to another. This data includes different modes of transportation like cars, trains, buses, or planes and various types of vehicles within the same mode, such as fishing vessels, cargo ships, tankers, and leisure boats. Research in this field focuses on modeling movement between different origins and destinations through techniques like link prediction or label propagation and reconstructing detailed mobility paths or trajectories using time-series forecasting or clustering.
 
-- 👉 [**Create a new site**](https://hugoblox.com/templates/)
-- 📚 [**Personalize your site**](https://docs.hugoblox.com/)
-- 💬 [Chat with the **Hugo Blox community**](https://discord.gg/z8wNYzb) or [**Hugo community**](https://discourse.gohugo.io)
-- 🐦 Twitter: [@GetResearchDev](https://twitter.com/GetResearchDev) [@GeorgeCushen](https://twitter.com/GeorgeCushen) #MadeWithHugoBlox
-- 💡 [Request a **feature** or report a **bug** for _Hugo Blox_](https://github.com/HugoBlox/hugo-blox-builder/issues)
-- ⬆️ **Updating Hugo Blox?** View the [Update Guide](https://docs.hugoblox.com/reference/update/) and [Release Notes](https://github.com/HugoBlox/hugo-blox-builder/releases)
+Studying mobility patterns and predicting movements can help us understand how trajectories are influenced by environmental factors and vice versa. For example, vessel mobility is affected by oceanic and weather dynamics, which directly impact the marine environment. Similarly, urban mobility patterns are interconnected with infrastructure developments and traffic regulations. Additionally, road conditions and congestion significantly impact vehicle movements, affecting fuel consumption and CO2 emissions. Pedestrian mobility is directly influenced by sidewalk layouts, which play a vital role in safety and walkability. Furthermore, air traffic mobility is connected to airport logistics, airspace management, and weather conditions, impacting overall transportation efficiency and resulting in flight delays.
 
-## Crowd-funded open-source software
+The doctoral student specializing in this topic will contribute to the development of techniques (i.e., algorithms for data preparation, techniques for data modeling, and complete pipelines for knowledge extraction) for mobility data mining and modeling focusing on the ocean environment and using oceanic sensors, such as Automatic Identification System (AIS) and hindcast data describing weather and oceanic conditions to improve our capacity of modeling anthropogenic effects in the ocean while applying that knowledge to increase ocean awareness and enhance decision-making for ocean management.
 
-To help us develop this template and software sustainably under the MIT license, we ask all individuals and businesses that use it to help support its ongoing maintenance and development via sponsorship.
+## Position
 
-### [❤️ Click here to become a sponsor and help support Hugo Blox's future ❤️](https://hugoblox.com/sponsor/)
+The Faculty of Computer Science is looking for a doctoral (PhD) student specializing in Ocean Mobility Data Mining within the Artificial Intelligence and Machine Learning cluster. The successful candidate will join a dynamic and dedicated research cluster and the group supervised by Prof. Gabriel Spadon, who has expertise in data analytics, graph modeling/mining, and machine learning for spatiotemporal data.
 
-As a token of appreciation for sponsoring, you can **unlock [these](https://hugoblox.com/sponsor/) awesome rewards and extra features 🦄✨**
+The PhD student will receive full funding and will be enrolled in the Computer Science program at Dalhousie University in Halifax, Nova Scotia, Canada. The recruitment, admission, and study processes will follow the policies of Dalhousie University’s Faculty of Graduate Studies.
 
-## Ecosystem
+The PhD student will have the opportunity to learn and work in a research-intensive environment. They will also have access to advanced training and be able to develop their professional network. The university encourages participation in academic career development programs. Additionally, the student may have opportunities to conduct research visits to national and international collaborators of Prof. Gabriel Spadon, as well as participate in international conferences and workshops.
 
-- **[Bibtex To Markdown](https://github.com/GetRD/academic-file-converter):** Automatically import publications from BibTeX
+## Qualifications
 
-## Inspiration
+The ideal candidate will be someone who: 
 
-[Learn what other **creators**](https://hugoblox.com/creators/) are building with this template.
+- 👉 Holds a M.Sc. in a relevant field, preferably computer science or a closely related discipline
+- 👉 Has excellent academic records and good interpersonal skills
+- 👉 Is fluent in the English language (IELTS 7 or above, or equivalent)
+- 👉 Has a strong interest in and ability to learn new research methods and skills
+- 👉 Has an interest in conducting interdisciplinary, applied research
+- 👉 Has experience in statistical analysis and strong programming skills (Python and Rust – preferred)
+- 👉 Has experience programming on Deep Learning Frameworks (Pytorch and TensorFlow – preferred) 
+- 👉 Has strong time management, organizational, and project management skills
+- 👉 Works well both independently and as part of an interdisciplinary team
+- 👉 Is able to communicate effectively with researchers and with non-academic members of governments, communities, and the private sector.
 
-## Features
+You are encouraged to apply even if you do not meet all the requirements of the ideal candidate.
 
-- **Page builder** - Create _anything_ with no-code [**blocks**](https://hugoblox.com/blocks/) and [**elements**](https://docs.hugoblox.com/reference/markdown/)
-- **Edit any type of content** - Blog posts, publications, talks, slides, projects, and more!
-- **Create content** in [**Markdown**](https://docs.hugoblox.com/reference/markdown/), [**Jupyter**](https://docs.hugoblox.com/getting-started/cms/), or [**RStudio**](https://docs.hugoblox.com/getting-started/cms/)
-- **Plugin System** - Fully customizable [**color** and **font themes**](https://docs.hugoblox.com/getting-started/customize/)
-- **Display Code and Math** - Code syntax highlighting and LaTeX math supported
-- **Integrations** - [Google Analytics](https://analytics.google.com), [Disqus commenting](https://disqus.com), Maps, Contact Forms, and more!
-- **Beautiful Site** - Simple and refreshing one-page design
-- **Industry-Leading SEO** - Help get your website found on search engines and social media
-- **Media Galleries** - Display your images and videos with captions in a customizable gallery
-- **Mobile Friendly** - Look amazing on every screen with a mobile friendly version of your site
-- **Multi-language** - 35+ language packs including English, 中文, and Português
-- **Multi-user** - Each author gets their own profile page
-- **Privacy Pack** - Assists with GDPR
-- **Stand Out** - Bring your site to life with animation, parallax backgrounds, and scroll effects
-- **One-Click Deployment** - No servers. No databases. Only files.
+## Application
 
-## Themes
-
-Hugo Blox and its templates come with **automatic day (light) and night (dark) mode** built-in. Visitors can choose their preferred mode by clicking the sun/moon icon in the header.
-
-[Choose a stunning **theme** and **font**](https://docs.hugoblox.com/getting-started/customize/) for your site. Themes are fully customizable.
-
-## License
-
-Copyright 2016-present [George Cushen](https://georgecushen.com).
-
-Released under the [MIT](https://github.com/HugoBlox/hugo-blox-builder/blob/main/LICENSE.md) license.
+Applicants should submit a detailed curriculum vitae, a transcript of records, and the contact information of two referees by email to Prof. Gabriel Spadon ([spadon@dal.ca](spadon@dal.ca)) with **“Lastname Firstname CS PhD application #2025-01”** as the subject line (i.e. put your last and first name in the email heading). Applications will be considered from July 1, 2024, until the position is filled. Note that only selected candidates will be contacted for an interview.
