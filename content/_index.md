@@ -34,8 +34,8 @@ sections:
     content:
       title: '📢 Open Positions 📌'
       subtitle: ''
-      text: |-
-      I am seeking an enthusiastic and dedicated doctoral (PhD) student interested in specializing in Ocean Mobility Data Mining within the Artificial Intelligence and Machine Learning cluster of the Faculty of Computer Science at Dalhousie University. This exciting opportunity offers full funding and enrollment in the Computer Science Graduate Program in Halifax - NS, Canada. The successful candidates will have the unique chance to immerse themselves in a dynamic and research-rich environment where they can learn, collaborate, and contribute to cutting-edge developments in this field.
+      text: |
+       I am seeking an enthusiastic and dedicated doctoral (PhD) student interested in specializing in Ocean Mobility Data Mining within the Artificial Intelligence and Machine Learning cluster of the Faculty of Computer Science at Dalhousie University. This exciting opportunity offers full funding and enrollment in the Computer Science Graduate Program in Halifax - NS, Canada. The successful candidates will have the unique chance to immerse themselves in a dynamic and research-rich environment where they can learn, collaborate, and contribute to cutting-edge developments in this field.
     design:
       columns: '1'
   - block: collection
