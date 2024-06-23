@@ -40,16 +40,16 @@ The PhD student will have the opportunity to learn and work in a research-intens
 
 The *ideal candidate* will be someone who: 
 
-- 👉 Holds a M.Sc. in a relevant field, preferably computer science or a closely related discipline
-- 👉 Has excellent academic records and good interpersonal skills
-- 👉 Is fluent in the English language **(IELTS 7 or above, or equivalent)**
-- 👉 Has a strong interest in and ability to learn new research methods and skills
-- 👉 Has an interest in conducting interdisciplinary, applied research
-- 👉 Has experience in statistical analysis and **strong programming skills** *(Python and Rust – preferred)*
-- 👉 Has experience programming on Deep Learning Frameworks *(Pytorch and TensorFlow – preferred)*
-- 👉 Has strong time management, organizational, and project management skills
-- 👉 Works well both independently and as part of an interdisciplinary team
-- 👉 Is able to communicate effectively with researchers and with non-academic members of governments, communities, and the private sector.
+- 📌 Holds a M.Sc. in a relevant field, preferably computer science or a closely related discipline
+- 📌 Has **excellent** academic records and good interpersonal skills
+- 📌 Is fluent in the English language **(IELTS 7 or above, or equivalent)**
+- 📌 Has a strong interest in and ability to learn new research methods and skills
+- 📌 Has an interest in conducting interdisciplinary, applied research
+- 📌 Has experience in statistical analysis and **strong programming skills** *(Python and Rust – preferred)*
+- 📌 Has experience programming on Deep Learning Frameworks *(Pytorch and TensorFlow – preferred)*
+- 📌 Has strong time management, organizational, and project management skills
+- 📌 Works well both independently and as part of an interdisciplinary team
+- 📌 Is able to communicate effectively with researchers and with non-academic members of governments, communities, and the private sector.
 
 You are encouraged to apply even if you do not meet all the requirements of the *ideal candidate*.
 
