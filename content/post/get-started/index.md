@@ -1,21 +1,17 @@
 ---
-title: 🎉 Easily create your own simple yet highly customizable blog
-summary: Take full control of your personal brand and privacy by migrating away from the big tech platforms!
-date: 2023-10-27
+title: Open Doctoral (PhD) Positions in Computer Science at Dalhousie University
+summary:
+date: 2024-06-23
 
 # Featured image
 # Place an image named `featured.jpg/png` in this page's folder and customize its options here.
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com)'
+  caption: 'Image credit: [**Mayank Anand**](https://images.google.com/)'
 
 authors:
   - admin
-  - Ted
-
 tags:
   - Academic
-  - Hugo Blox
-  - Markdown
 ---
 
 Welcome 👋
