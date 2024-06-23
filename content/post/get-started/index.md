@@ -20,7 +20,7 @@ tags:
 
 ## Research Area
 
-Mobility is crucial for human life as it affects various aspects of our biology, society, economy, and culture. Human movement has historically influenced societies through population and environmental changes, and it continues to be a natural occurrence despite modern limitations. Similarly, maritime transportation has been fundamental to global trade since the Age of Exploration. It remains one of the most important methods of coordinating and moving goods, accounting for over 80% of the world's trade volume today. The ability to move efficiently across vast distances by sea has not only shaped economic landscapes but also fostered cultural exchange and technological advancements, underscoring the significance of mobility in all its forms.
+Mobility is crucial for human life as it affects various aspects of our biology, society, economy, and culture. Human movement has historically influenced societies through population and environmental changes, and it continues to be a natural occurrence despite modern limitations. Similarly, maritime transportation has been fundamental to global trade since the Age of Exploration. It remains one of the most important methods of coordinating and moving goods, accounting for over 80% of the world's trade volume today. The ability to move efficiently across vast distances by sea has not only shaped economic landscapes but also fostered cultural exchange and technological advancements, underscoring the significance of all forms of mobility.
 
 Mobility data refers to sequences of positional data that change over time, showing the movement of people, objects, or animals from one place to another. This data includes different modes of transportation like cars, trains, buses, or planes and various types of vehicles within the same mode, such as fishing vessels, cargo ships, tankers, and leisure boats. Research in this field focuses on modeling movement between different origins and destinations through techniques like link prediction or label propagation and reconstructing detailed mobility paths or trajectories using time-series forecasting or clustering.
 
@@ -34,7 +34,7 @@ The Faculty of Computer Science is looking for a doctoral (PhD) student speciali
 
 *The PhD student will receive full funding and will be enrolled in the Computer Science program at Dalhousie University in Halifax, Nova Scotia, Canada.* The recruitment, admission, and processes will follow policies of [Dalhousie University](www.dal.ca)’s [Faculty of Graduate Studies](www.dal.ca/faculty/gradstudies.html).
 
-The PhD student will have the opportunity to learn and work in a research-intensive environment. They will also have access to advanced training and be able to develop their professional network. The university encourages participation in academic career development programs. Additionally, the student may have opportunities to conduct research visits national and international collaborators, as well as participate in international conferences and workshops.
+The PhD student will have the opportunity to learn and work in a research-intensive environment. They will also have access to advanced training and be able to develop their professional network. The university encourages participation in academic career development programs. Additionally, the student may have opportunities to conduct research visits national and international collaborators, as well as participate in conferences and workshops.
 
 ## Recomended Qualifications
 
