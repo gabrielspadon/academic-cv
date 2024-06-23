@@ -1,0 +1,415 @@
+@inproceedings{matsumoto2015visualizaccao,
+  title={Visualiza{\c{c}}{\~a}o e an{\'a}lise espacial de dados epidemiol{\'o}gicos no espa{\c{c}}o: Interpola{\c{c}}{\~a}o da preval{\^e}ncia de casos de LVC em Presidente Prudente -- SP},
+  author={Matsumoto, Patricia Sayuri Silvestre and Souza, Gabriel Spadon and Guimar{\~a}es, Raul Borges},
+  booktitle={IV For{\'u}m Internacional de Geografia da Sa{\'u}de},
+  year={2015}
+}
+
+@inproceedings{spadon2018complex,
+  title={Complex-network tools to understand the behavior of criminality in urban areas},
+  author={Spadon, Gabriel and Scabora, Lucas C and Araujo, Marcus VS and Oliveir, Paulo H and Machado, Bruno B and Sousa, Elaine PM and Traina, Caetano and Rodrigues, Jose F},
+  booktitle={Information Technology-New Generations: 14th International Conference on Information Technology},
+  pages={493--500},
+  year={2018},
+  organization={Springer International Publishing}
+}
+
+@article{spadon2017identifying,
+  title={Identifying urban inconsistencies via street networks},
+  author={Spadon, Gabriel and Gimenes, Gabriel and Rodrigues-Jr, Jose F},
+  journal={Procedia Computer Science},
+  volume={108},
+  pages={18--27},
+  year={2017},
+  publisher={Elsevier}
+}
+
+@article{spadon2017behavioral,
+  title={Behavioral Characterization of Criminality Spread in Cities},
+  author={Spadon, Gabriel and Scabora, Lucas C and Oliveira, Paulo H and Araujo, Marcus VS and Machado, Bruno B and Sousa, Elaine PM and Traina-Jr, Caetano and Rodrigues-Jr, Jose F},
+  journal={Procedia Computer Science},
+  volume={108},
+  pages={2537--2541},
+  year={2017},
+  publisher={Elsevier}
+}
+
+@inproceedings{marques2017data,
+  title={Data bases available through APIs using Restify: Characteristics, programming models, and benchmarks},
+  author={Marques, Luiz F and Correia, Ronaldo CM and Spadon, Gabriel and Eler, Danilo M and Olivete-Jr, Celso and Garcia, Rog{\'e}rio E},
+  booktitle={2017 12th Iberian Conference on Information Systems and Technologies (CISTI)},
+  pages={1--6},
+  year={2017},
+  organization={Ieee}
+}
+
+@inproceedings{almeida2017prediction,
+  title={Prediction of winners in MOBA games},
+  author={Almeida, Carlos EM and Correia, Ronaldo CM and Eler, Danilo M and Olivete-Jr, Celso and Garci, Rog{\'e}rio E and Scabora, Lucas C and Spadon, Gabriel},
+  booktitle={2017 12th Iberian Conference on Information Systems and Technologies (CISTI)},
+  pages={1--6},
+  year={2017},
+  organization={Ieee}
+}
+
+@inproceedings{caldeira2017data,
+  title={Data mining on LinkedIn data to define professional profile via MineraSkill methodology},
+  author={Caldeira, Dayane CMF and Correia, Ronaldo CM and Spadon, Gabriel and Eler, Danilo M and Olivete-Jr, Celso and Garcia, Rog{\'e}rio E},
+  booktitle={2017 12th Iberian Conference on Information Systems and Technologies (CISTI)},
+  pages={1--6},
+  year={2017},
+  organization={Ieee}
+}
+
+@phdthesis{de2017characterization,
+  title={Characterization of mobility patterns and collective behavior through the analytical processing of real-world complex networks},
+  author={de Souza, Gabriel Spadon},
+  year={2017},
+  school={Universidade de S{\~a}o Paulo}
+}
+
+@inproceedings{machado2018smartphone,
+  title={A smartphone application to measure the quality of pest control spraying machines via image analysis},
+  author={Machado, Bruno Brandoli and Spadon, Gabriel and Arruda, Mauro S and Goncalves, Wesley N and Carvalho, Andre CPLF and Rodrigues-Jr, Jose F},
+  booktitle={Proceedings of the 33rd Annual ACM Symposium on Applied Computing},
+  pages={956--963},
+  year={2018}
+}
+
+@inproceedings{de2017teaching,
+  title={Teaching software quality via source code inspection tool},
+  author={de Andrade Gomes, Pedro Henrique and Garcia, Rog{\'e}rio Eduardo and Spadon, Gabriel and Eler, Danilo Medeiros and Olivete, Celso and Correia, Ronaldo Celso Messias},
+  booktitle={2017 IEEE Frontiers in Education Conference (FIE)},
+  pages={1--8},
+  year={2017},
+  organization={Ieee}
+}
+
+@inproceedings{de2016combined,
+  title={Combined methodology for theoretical computing},
+  author={De Souza, Gabriel Spadon and de Andrade Gomes, Pedro Henrique and Correia, Ronaldo Celso Messias and Olivete, Celso and Eler, Danilo Medeiros and Garcia, Rog{\'e}rio Eduardo},
+  booktitle={2016 IEEE Frontiers in Education Conference (FIE)},
+  pages={1--7},
+  year={2016},
+  organization={Ieee}
+}
+
+@inproceedings{de2015teaching,
+  title={Teaching-learning methodology for formal languages and automata theory},
+  author={De Souza, Gabriel Spadon and Olivete, Celso and Correia, Ronaldo Celso Messias and Garcia, Rog{\'e}rio Eduardo},
+  booktitle={2015 IEEE Frontiers in Education Conference (FIE)},
+  pages={1--7},
+  year={2015},
+  organization={Ieee}
+}
+
+@inproceedings{de2015simulation,
+  title={Simulation and analysis applied on virtualization to build Hadoop clusters},
+  author={de Souza, Gabriel Spadon and Correia, Ronaldo Celso Messias and Garcia, Rog{\'e}rio Eduardo and Olivete, Celso},
+  booktitle={2015 10th Iberian Conference on Information Systems and Technologies (CISTI)},
+  pages={1--7},
+  year={2015},
+  organization={Ieee}
+}
+
+@inproceedings{santana2015scalable,
+  title={Scalable information system using event oriented programming and NoSQL},
+  author={Santana, Vagner Jos{\'e} and de Souza, Gabriel Spadon and Correia, Ronaldo Celso Messias and Garcia, Rog{\'e}rio Eduardo and Eler, Danilo Medeiros and Olivete, Celso},
+  booktitle={2015 10th Iberian Conference on Information Systems and Technologies (CISTI)},
+  pages={1--6},
+  year={2015},
+  organization={Ieee}
+}
+
+@inproceedings{correia2018teaching,
+  title={Teaching distributed systems using hadoop},
+  author={Correia, Ronaldo CM and Spadon, Gabriel and Eler, Danilo M and Olivete, Celso and Garcia, Rog{\'e}rio E},
+  booktitle={Information Technology-New Generations: 14th International Conference on Information Technology},
+  pages={355--362},
+  year={2018},
+  organization={Springer International Publishing}
+}
+
+@inproceedings{spadon2018distance,
+  title={A distance-based tool-set to track inconsistent urban structures through complex-networks},
+  author={Spadon, Gabriel and Machado, Bruno B and Eler, Danilo M and Rodrigues Jr, Jose F},
+  booktitle={International Conference on Computational Science},
+  pages={288--301},
+  year={2018},
+  organization={Springer International Publishing Cham}
+}
+
+@article{correia2018hadoop,
+  title={Hadoop Cluster Deployment: A Methodological Approach},
+  author={Correia, Ronaldo and Spadon, Gabriel and De Andrade Gomes, Pedro and Eler, Danilo and Garcia, Rog{\'e}rio and Olivete Junior, Celso},
+  journal={Information},
+  volume={9},
+  number={6},
+  pages={131--141},
+  year={2018},
+  publisher={Multidisciplinary Digital Publishing Institute}
+}
+
+@inproceedings{spadon2018topological,
+  title={Topological street-network characterization through feature-vector and cluster analysis},
+  author={Spadon, Gabriel and Gimenes, Gabriel and Rodrigues, Jose F},
+  booktitle={Computational Science--ICCS 2018: 18th International Conference, Wuxi, China, June 11--13, 2018, Proceedings, Part I 18},
+  pages={274--287},
+  year={2018},
+  organization={Springer International Publishing}
+}
+
+@inproceedings{nesso2018rafiki,
+  title={RAFIKI: Retrieval-based application for imaging and knowledge investigation},
+  author={Nesso, Marcos R and Cazzolato, Mirela T and Scabora, Lucas C and Oliveira, Paulo H and Spadon, Gabriel and de Souza, Jessica A and Oliveira, Willian D and Chino, Daniel YT and Rodrigues, Jose F and Traina, Agma JM and others},
+  booktitle={2018 IEEE 31st International Symposium on Computer-Based Medical Systems (CBMS)},
+  pages={71--76},
+  year={2018},
+  organization={IEEE}
+}
+
+@inproceedings{de2018recognition,
+  title={Recognition of endangered pantanal animal species using deep learning methods},
+  author={de Arruda, Mauro dos Santos and Spadon, Gabriel and Rodrigues, Jose F and Gon{\c{c}}alves, Wesley Nunes and Machado, Bruno Brandoli},
+  booktitle={2018 International Joint Conference on Neural Networks (IJCNN)},
+  pages={1--8},
+  year={2018},
+  organization={IEEE}
+}
+
+@inproceedings{spadon2018computer,
+  title={Computer-assisted city touring for explorers},
+  author={Spadon, Gabriel and Rodrigues-Jr, Jose F},
+  booktitle={Workshop on Big Social Data and Urban Computing co-located with BiDU 2018 at VLDB 2018},
+  year={2018},
+  organization={CEUR Online Proceedings for Scientific Conferences and Workshops}
+}
+
+@article{spadon2019detecting,
+  title={Detecting multi-scale distance-based inconsistencies in cities through complex-networks},
+  author={Spadon, Gabriel and Brandoli, Bruno and Eler, Danilo M and Rodrigues-Jr, Jose F},
+  journal={Journal of computational science},
+  volume={30},
+  pages={209--222},
+  year={2019},
+  publisher={Elsevier}
+}
+
+@inproceedings{spadon2018caracterizaccao,
+  title={Caracteriza{\c{c}}{\~a}o Topol{\'o}gica de Redes Vi{\'a}rias por Meio da An{\'a}lise de Vetores de Caracter{\'\i}sticas e T{\'e}cnicas de Agrupamento.},
+  author={Spadon, Gabriel and Scabora, Lucas C and Nesso Jr, Marcos R and Traina Jr, Caetano and Rodrigues Jr, Jos{\'e} F},
+  booktitle={SBBD},
+  volume={18},
+  pages={157--168},
+  year={2018}
+}
+
+@article{scabora2018cutting,
+  title={Cutting-edge relational graph data management with edge-k: from one to multiple edges in the same row},
+  author={Scabora, Lucas C and Oliveira, Paulo H and Spadon, Gabriel and Kaster, Daniel S and Rodrigues-Jr, Jose F and Traina, Agma JM and Junior, Caetano Traina},
+  journal={Journal of Information and Data Management},
+  volume={9},
+  number={1},
+  pages={20--20},
+  year={2018}
+}
+
+@inproceedings{ferreira2018comparative,
+  title={A comparative analysis of the automatic modeling of Learning Styles through Machine Learning techniques},
+  author={Ferreira, Lucas D and Spadon, Gabriel and Carvalho, Andr{\'e} CPLF and Rodrigues, Jose F},
+  booktitle={2018 IEEE Frontiers in Education Conference (FIE)},
+  pages={1--8},
+  year={2018},
+  organization={IEEE}
+}
+
+@article{spadon2019reconstructing,
+  title={Reconstructing commuters network using machine learning and urban indicators},
+  author={Spadon, Gabriel and Carvalho, Andre CPLF de and Rodrigues-Jr, Jose F and Alves, Luiz GA},
+  journal={Scientific reports},
+  volume={9},
+  number={1},
+  pages={11801},
+  year={2019},
+  publisher={Nature Publishing Group UK London}
+}
+
+@article{rodrigues2019patient,
+  title={Patient trajectory prediction in the Mimic-III dataset, challenges and pitfalls},
+  author={Rodrigues-Jr, Jose F and Spadon, Gabriel and Brandoli, Bruno and Amer-Yahia, Sihem},
+  journal={arXiv preprint arXiv:1909.04605},
+  year={2019}
+}
+
+@inproceedings{scabora2020enhancing,
+  title={Enhancing recursive graph querying on RDBMS with data clustering approaches},
+  author={Scabora, Lucas C and Spadon, Gabriel and Oliveira, Paulo H and Rodrigues-Jr, Jose F and Traina-Jr, Caetano},
+  booktitle={Proceedings of the 35th Annual ACM Symposium on Applied Computing},
+  pages={404--411},
+  year={2020}
+}
+
+@inproceedings{de2016health,
+  title={Health information system for medical survey analysis},
+  author={de Souza, Gabriel Spadon and Correia, Ronaldo Celso Messias and Garcia, Rog{\'e}rio Eduardo and Olivete, Celso and Santos, Bruno Renan Gelako},
+  booktitle={2016 11th Iberian Conference on Information Systems and Technologies (CISTI)},
+  pages={1--6},
+  year={2016},
+  organization={Ieee}
+}
+
+@inproceedings{rocha2018internet,
+  title={Internet-based education: a new milestone for formal language and automata courses},
+  author={Rocha, Jo{\~a}o EM and Olivete, Celso and Gomes, Pedro HA and Garcia, Rog{\'e}rio E and Correia, Ronaldo CM and de Souza, Gabriel Spadon and Eler, Danilo M},
+  booktitle={Information Technology-New Generations: 15th International Conference on Information Technology},
+  pages={195--200},
+  year={2018},
+  organization={Springer International Publishing}
+}
+
+@inproceedings{rodrigues2020lig,
+  title={Lig-doctor: Real-world clinical prognosis using a bi-directional neural network},
+  author={Rodrigues, Jose F and Spadon, Gabriel and Brandoli, Bruno and Amer-Yahia, Sihem},
+  booktitle={2020 IEEE 33rd International Symposium on Computer-Based Medical Systems (CBMS)},
+  pages={569--572},
+  year={2020},
+  organization={IEEE}
+}
+
+@article{rodrigues2021lig,
+  title={LIG-Doctor: Efficient patient trajectory prediction using bidirectional minimal gated-recurrent networks},
+  author={Rodrigues-Jr, Jose F and Gutierrez, Marco A and Spadon, Gabriel and Brandoli, Bruno and Amer-Yahia, Sihem},
+  journal={Information Sciences},
+  volume={545},
+  pages={813--827},
+  year={2021},
+  publisher={Elsevier}
+}
+
+@article{brandoli2021dropleaf,
+  title={DropLeaf: A precision farming smartphone tool for real-time quantification of pesticide application coverage},
+  author={Brandoli, Bruno and Spadon, Gabriel and Esau, Travis and Hennessy, Patrick and Carvalho, Andre CPL and Amer-Yahia, Sihem and Rodrigues-Jr, Jose F},
+  journal={Computers and Electronics in Agriculture},
+  volume={180},
+  pages={105906},
+  year={2021},
+  publisher={Elsevier}
+}
+
+@inproceedings{scabora2021sharq,
+  title={SHARq: sharing recursive queries in relational databases},
+  author={Scabora, Lucas C and Spadon, Gabriel and Cazzolato, Mirela T and Kaster, Daniel S and Traina, Agma JM and Rodrigues-Jr, Jose F and Traina-Jr, Caetano},
+  booktitle={Proceedings of the 36th Annual ACM Symposium on Applied Computing},
+  pages={336--339},
+  year={2021}
+}
+
+@article{spadon2021pay,
+  title={Pay Attention to Evolution: Time Series Forecasting with Deep Graph-Evolution Learning},
+  author={Spadon, Gabriel and Hong, Shenda and Brandoli, Bruno and Matwin, Stan and Rodrigues-Jr, Jose Fernando and Sun, Jimeng},
+  journal={IEEE Transactions on Pattern Analysis and Machine Intelligence},
+  year={2021},
+  publisher={IEEE}
+}
+
+@article{brandoli2021aircraft,
+  title={Aircraft fuselage corrosion detection using artificial intelligence},
+  author={Brandoli, Bruno and de Geus, Andr{\'e} R and Souza, Jefferson R and Spadon, Gabriel and Soares, Amilcar and Rodrigues Jr, Jose F and Komorowski, Jerzy and Matwin, Stan},
+  journal={Sensors},
+  volume={21},
+  number={12},
+  pages={4026},
+  year={2021},
+  publisher={MDPI}
+}
+
+@article{oishi2021neural,
+  title={Neural networks for seismic data inversion},
+  author={Oishi, Cassio M and Amaral, Fabio Vin{\'\i}cius Goes and Fran{\c{c}}a, Hugo Leonardo and Nakata, William Hideki and de Aguiar, Diego Alecsander and de Oliveira Santos, Gilmar Francisco and de Oliveira Medeiros, D{\'e}bora and Spadon, Gabriel and Rodrigues Jr, Jos{\'e} Fernando and Mart{\'\i}nez, Jos{\'e} Mario and others},
+  year={2021}
+}
+
+@phdthesis{souza2021cities,
+  title={From Cities to Series: Complex Networks and Deep Learning for Improved Spatial and Temporal Analytics},
+  author={Souza, Gabriel Spadon de},
+  year={2021},
+  school={Universidade de S{\~a}o Paulo}
+}
+
+@article{simon2015janela,
+  title={Uma janela para o mundo: uso da internet e a promo{\c{c}}{\~a}o da sa{\'u}de de pacientes com ELA},
+  author={Simon, Carolina Russo and Guimar{\~a}es, Raul Borges and de Souza, Gabriel Spadon},
+  journal={IV For{\'u}m Internacional de Geografia da Sa{\'u}de},
+  year={2015}
+}
+
+@article{scabora2019g,
+  title={G-franc: a dataset of criminal activities mapped as a complex network in a relational dbms},
+  author={Scabora, Lucas de Carvalho and Spadon, Gabriel and Rodrigues, Lucas Santiago and Cazzolato, Mirela Teixeira and Ara{\'u}jo, Marcus Vinicius dos Santos and Sousa, Elaine Parros Machado de and Traina, Agma Juci Machado and Rodrigues Junior, Jos{\'e} Fernando and Traina Junior, Caetano},
+  journal={Proceedings Companion},
+  year={2019}
+}
+
+@article{spadon2022unfolding,
+  title={Unfolding ais transmission behavior for vessel movement modeling on noisy data leveraging machine learning},
+  author={Spadon, Gabriel and Ferreira, Martha D and Soares, Amilcar and Matwin, Stan},
+  journal={IEEE Access},
+  volume={11},
+  pages={18821--18837},
+  year={2022},
+  publisher={IEEE}
+}
+
+@article{rodrigues2022cpap,
+  title={CPAP Adherence Assessment via Gaussian Mixture Modeling of Telemonitored Apnea Therapy},
+  author={Rodrigues Jr, Jose F and Bailly, Sebastien and Pepin, Jean-Louis and Goeuriot, Lorraine and Spadon, Gabriel and Amer-Yahia, Sihem},
+  journal={Applied Sciences},
+  volume={12},
+  number={15},
+  pages={7618},
+  year={2022},
+  publisher={MDPI}
+}
+
+@article{ferreira2022semi,
+  title={A semi-supervised methodology for fishing activity detection using the geometry behind the trajectory of multiple vessels},
+  author={Ferreira, Martha Dais and Spadon, Gabriel and Soares, Amilcar and Matwin, Stan},
+  journal={Sensors},
+  volume={22},
+  number={16},
+  pages={6063},
+  year={2022},
+  publisher={MDPI}
+}
+
+@article{spadon2024probabilistic,
+  title={Probabilistic Feature Augmentation for AIS-Based Multi-Path Long-Term Vessel Trajectory Forecasting},
+  author={Spadon, Gabriel and Kumar, Jay and Eden, Derek and van Berkel, Josh and Foster, Tom and Soares, Amilcar and Fablet, Ronan and Matwin, Stan and Pelot, Ronald},
+  journal={arXiv preprint arXiv:2310.18948},
+  year={2024}
+}
+
+@inproceedings{j2023data,
+  title={A data augmentation algorithm for trajectory data},
+  author={J. Haranwala, Yaksh and Spadon, Gabriel and Renso, Chiara and Soares, Amilcar},
+  booktitle={Proceedings of the 1st ACM SIGSPATIAL International Workshop on Methods for Enriched Mobility Data: Emerging issues and Ethical perspectives 2023},
+  pages={25--29},
+  year={2023}
+}
+
+@article{song2024gravity,
+  title={Gravity-Informed Deep Learning Framework for Predicting Ship Traffic Flow and Invasion Risk of Non-Indigenous Species via Ballast Water Discharge},
+  author={Song, Ruixin and Spadon, Gabriel and Pelot, Ronald and Matwin, Stan and Soares, Amilcar},
+  journal={arXiv preprint arXiv:2401.13098},
+  year={2024}
+}
+
+@article{alam2024enhancing,
+  title={Enhancing short-term vessel trajectory prediction with clustering for heterogeneous and multi-modal movement patterns},
+  author={Alam, Md Mahbub and Spadon, Gabriel and Etemad, Mohammad and Torgo, Luis and Milios, Evangelos},
+  journal={Ocean Engineering},
+  volume={308},
+  pages={118303},
+  year={2024},
+  publisher={Pergamon}
+}
