@@ -30,11 +30,11 @@ The doctoral student specializing in this topic will contribute to the developme
 
 ## Position Details
 
-The Faculty of Computer Science is looking for a doctoral (PhD) student specializing in Ocean Mobility Data Mining within the Artificial Intelligence and Machine Learning cluster. The successful candidate will join a dynamic and dedicated research cluster and the group supervised by me, who has expertise in data analytics, graph modeling/mining, and machine learning for spatiotemporal data.
+The Faculty of Computer Science is looking for a doctoral (PhD) student specializing in Ocean Mobility Data Mining within the Artificial Intelligence and Machine Learning cluster. The successful candidate will join a dynamic and dedicated research cluster and my research group, which is focused in data analytics, graph modeling/mining, and machine learning for spatiotemporal data.
 
 *The PhD student will receive full funding and will be enrolled in the Computer Science program at Dalhousie University in Halifax, Nova Scotia, Canada.* The recruitment, admission, and processes will follow policies of [Dalhousie University](www.dal.ca)’s [Faculty of Graduate Studies](www.dal.ca/faculty/gradstudies.html).
 
-The PhD student will have the opportunity to learn and work in a research-intensive environment. They will also have access to advanced training and be able to develop their professional network. The university encourages participation in academic career development programs. Additionally, the student may have opportunities to conduct research visits to my national and international collaborators, as well as participate in international conferences and workshops.
+The PhD student will have the opportunity to learn and work in a research-intensive environment. They will also have access to advanced training and be able to develop their professional network. The university encourages participation in academic career development programs. Additionally, the student may have opportunities to conduct research visits national and international collaborators, as well as participate in international conferences and workshops.
 
 ## Recomended Qualifications
 
