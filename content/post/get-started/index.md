@@ -11,7 +11,7 @@ image:
 authors:
   - admin
 tags:
-  - Position
+  - Openings
   - Research
   - Dalhousie
 ---
