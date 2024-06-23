@@ -53,6 +53,6 @@ The *ideal candidate* will be someone who:
 
 You are encouraged to apply even if you do not meet all the requirements of the *ideal candidate*.
 
-## Application Instructions
+## Application
 
 Applicants should submit a detailed curriculum vitae, a transcript of records, and the contact information of two referees by email to me ([spadon@dal.ca](spadon@dal.ca)) with **“Lastname Firstname CS PhD application #2025-01”** as the subject line (i.e. put your last and first name in the email heading). Applications will be considered from July 1, 2024, until the position is filled. Note that only selected candidates will be contacted for an interview.
