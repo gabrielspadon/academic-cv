@@ -32,26 +32,26 @@ The doctoral student specializing in this topic will contribute to the developme
 
 The Faculty of Computer Science is looking for a doctoral (PhD) student specializing in Ocean Mobility Data Mining within the Artificial Intelligence and Machine Learning cluster. The successful candidate will join a dynamic and dedicated research cluster and the group supervised by Prof. Gabriel Spadon, who has expertise in data analytics, graph modeling/mining, and machine learning for spatiotemporal data.
 
-The PhD student will receive full funding and will be enrolled in the Computer Science program at Dalhousie University in Halifax, Nova Scotia, Canada. The recruitment, admission, and study processes will follow the policies of Dalhousie University’s Faculty of Graduate Studies.
+*The PhD student will receive full funding and will be enrolled in the Computer Science program at Dalhousie University in Halifax, Nova Scotia, Canada.* The recruitment, admission, and study processes will follow the policies of [Dalhousie University](www.dal.ca)’s [Faculty of Graduate Studies](www.dal.ca/faculty/gradstudies.html).
 
 The PhD student will have the opportunity to learn and work in a research-intensive environment. They will also have access to advanced training and be able to develop their professional network. The university encourages participation in academic career development programs. Additionally, the student may have opportunities to conduct research visits to national and international collaborators of Prof. Gabriel Spadon, as well as participate in international conferences and workshops.
 
 ## Recomended Qualifications
 
-The ideal candidate will be someone who: 
+The *ideal candidate* will be someone who: 
 
 - 👉 Holds a M.Sc. in a relevant field, preferably computer science or a closely related discipline
 - 👉 Has excellent academic records and good interpersonal skills
-- 👉 Is fluent in the English language (IELTS 7 or above, or equivalent)
+- 👉 Is fluent in the English language **(IELTS 7 or above, or equivalent)**
 - 👉 Has a strong interest in and ability to learn new research methods and skills
 - 👉 Has an interest in conducting interdisciplinary, applied research
-- 👉 Has experience in statistical analysis and strong programming skills (Python and Rust – preferred)
-- 👉 Has experience programming on Deep Learning Frameworks (Pytorch and TensorFlow – preferred) 
+- 👉 Has experience in statistical analysis and **strong programming skills** *(Python and Rust – preferred)*
+- 👉 Has experience programming on Deep Learning Frameworks *(Pytorch and TensorFlow – preferred)*
 - 👉 Has strong time management, organizational, and project management skills
 - 👉 Works well both independently and as part of an interdisciplinary team
 - 👉 Is able to communicate effectively with researchers and with non-academic members of governments, communities, and the private sector.
 
-You are encouraged to apply even if you do not meet all the requirements of the ideal candidate.
+You are encouraged to apply even if you do not meet all the requirements of the *ideal candidate*.
 
 ## Application Instructions
 
