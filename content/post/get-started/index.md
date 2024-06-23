@@ -36,7 +36,7 @@ The Faculty of Computer Science is looking for a doctoral (PhD) student speciali
 
 The PhD student will have the opportunity to learn and work in a research-intensive environment. They will also have access to advanced training and be able to develop their professional network. The university encourages participation in academic career development programs. Additionally, the student may have opportunities to conduct research visits national and international collaborators, as well as participate in conferences and workshops.
 
-## Recomended Qualifications
+## Candidate Qualifications
 
 The *ideal candidate* will be someone who: 
 
