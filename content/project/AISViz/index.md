@@ -6,6 +6,6 @@ tags:
   - Canada
 ---
 
-AISviz was proposed to develop machine learning applications to work seamlessly with flexible data sources from terrestrial and satellite streams of AIS data, offering visualization capabilities.
+AISviz was proposed so we could develop machine learning applications that intergrate seamlessly with data streams from terrestrial and satellite AIS data, offering visualization capabilities.
 
 <!--more-->
