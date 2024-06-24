@@ -71,15 +71,18 @@ sections:
       # Reduce spacing
       spacing:
         padding: [0, 0, 0, 0]
-  - block: collection
+  - block: custom
     id: map
-    features:
-      map:
-        provider: 'mapnik'
-        api_key: ''
-        zoom: 15
     content:
-      coordinates:
-        latitude: '37.4275'
-        longitude: '-122.1697'
+      title: Map
+    design:
+      view: map
 ---
+
+<div id="map" style="width: 100%; height: 500px;"></div>
+<script>
+  var map = L.map('map').setView([37.4275, -122.1697], 15);
+  L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+    maxZoom: 19,
+  }).addTo(map);
+</script>
