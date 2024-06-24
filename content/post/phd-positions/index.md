@@ -1,7 +1,7 @@
 ---
 title: 🫵 Open PhD Positions in Computer Science at Dalhousie University
 summary: Doctoral with specialization in Machine Learning for Ocean Mobility Data Mining
-date: 2024-06-23
+date: 2024-07-01
 
 # Featured image
 # Place an image named `featured.jpg/png` in this page's folder and customize its options here.
