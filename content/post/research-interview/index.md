@@ -15,6 +15,7 @@ tags:
   - OFI
   - Research
   - Dalhousie
+  - smartWhales
 ---
 
 {{< toc mobile_only=true is_open=true >}}
