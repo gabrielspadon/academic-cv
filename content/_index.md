@@ -71,17 +71,4 @@ sections:
       # Reduce spacing
       spacing:
         padding: [0, 0, 0, 0]
-  - block: collection
-    id: map
-    features:
-      map:
-        provider: 'mapnik'
-        api_key: ''
-        zoom: 15
-    content:
-      coordinates:
-        latitude: '37.4275'
-        longitude: '-122.1697'
-    design:
-      view: map
 ---
