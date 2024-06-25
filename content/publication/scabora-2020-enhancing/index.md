@@ -34,4 +34,5 @@ tags:
 - Data Clustering
 - Adjacency List Storage
 - Query Optimization
+reading_time: false
 ---

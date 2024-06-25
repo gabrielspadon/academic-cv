@@ -31,4 +31,5 @@ tags:
 - Feature Vectors
 - Clustering Techniques
 - Urban Analysis
+reading_time: false
 ---

@@ -37,4 +37,5 @@ tags:
 - Complex Networks
 - Urban Street Networks
 - Crime Analysis
+reading_time: false
 ---

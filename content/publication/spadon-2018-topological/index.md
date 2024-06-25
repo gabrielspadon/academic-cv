@@ -32,4 +32,5 @@ tags:
 - Cluster Analysis
 - Complex Networks
 - Urban Indicators
+reading_time: false
 ---

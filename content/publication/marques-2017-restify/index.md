@@ -34,4 +34,5 @@ tags:
 - Web Services
 - Database as a Service
 - System Interoperability
+reading_time: false
 ---

@@ -25,4 +25,5 @@ tags:
 - Network Analysis
 - Distance-Based Inconsistencies
 - Access Problems
+reading_time: false
 ---

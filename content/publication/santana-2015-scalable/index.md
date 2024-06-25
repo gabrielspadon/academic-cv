@@ -29,4 +29,5 @@ tags:
 - NoSQL
 - Node.JS
 - MongoDB
+reading_time: false
 ---

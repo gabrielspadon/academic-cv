@@ -38,4 +38,5 @@ tags:
 - Automata Theory
 - Teaching Methodology
 - Computer Science Education
+reading_time: false
 ---

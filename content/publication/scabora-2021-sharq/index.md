@@ -34,4 +34,5 @@ tags:
 - Graph-Like Queries
 - Query Optimization
 - SHARq
+reading_time: false
 ---

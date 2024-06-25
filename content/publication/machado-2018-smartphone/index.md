@@ -36,4 +36,5 @@ tags:
 - Mobile Application
 - Agricultural Productivity
 - Deposition Analysis
+reading_time: false
 ---

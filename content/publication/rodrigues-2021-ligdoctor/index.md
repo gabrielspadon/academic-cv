@@ -35,4 +35,5 @@ tags:
 - Deep Learning
 - Medical Prognosis
 - Neural Network Architecture
+reading_time: false
 ---

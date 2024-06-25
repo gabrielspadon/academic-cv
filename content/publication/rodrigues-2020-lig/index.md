@@ -31,4 +31,5 @@ tags:
 - Deep Learning
 - Patient Trajectory Prediction
 - Bidirectional Processing
+reading_time: false
 ---

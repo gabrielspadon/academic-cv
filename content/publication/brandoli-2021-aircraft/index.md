@@ -37,4 +37,5 @@ tags:
 - Deep Neural Networks
 - Image-Based Detection
 - Transfer Learning
+reading_time: false
 ---

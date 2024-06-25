@@ -35,4 +35,5 @@ tags:
 - LinkedIn
 - Natural Language Processing
 - MineraSkill
+reading_time: false
 ---

@@ -37,4 +37,5 @@ tags:
 - Telemonitoring
 - Gaussian Mixture Modeling
 - Unsupervised Learning
+reading_time: false
 ---

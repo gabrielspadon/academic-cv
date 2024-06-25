@@ -42,4 +42,5 @@ tags:
 - Edge-k
 - Query Optimization
 - Table Organization
+reading_time: false
 ---

@@ -46,4 +46,5 @@ tags:
 - Relational Database
 - Medical Imaging
 - RAFIKI
+reading_time: false
 ---

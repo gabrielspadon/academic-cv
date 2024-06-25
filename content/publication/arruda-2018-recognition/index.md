@@ -31,4 +31,5 @@ tags:
 - Deep Learning
 - Convolutional Neural Networks
 - Image Segmentation
+reading_time: false
 ---

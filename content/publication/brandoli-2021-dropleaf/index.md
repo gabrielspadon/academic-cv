@@ -36,4 +36,5 @@ tags:
 - Smartphone Tool
 - Image Analysis
 - Real-Time Assessment
+reading_time: false
 ---

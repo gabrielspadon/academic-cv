@@ -28,4 +28,5 @@ tags:
 - Learning Tool
 - Cognitive Load
 - Education
+reading_time: false
 ---

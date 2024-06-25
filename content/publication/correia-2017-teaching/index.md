@@ -31,4 +31,5 @@ tags:
 - Hadoop
 - Benchmark Tests
 - Computer Science Education
+reading_time: false
 ---

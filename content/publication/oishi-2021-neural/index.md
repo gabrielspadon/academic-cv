@@ -38,4 +38,5 @@ tags:
 - Velocity Model
 - Machine Learning
 - GAN
+reading_time: false
 ---

@@ -37,4 +37,5 @@ tags:
 - Deep Learning
 - Temporal Irregularity
 - Neural Networks
+reading_time: false
 ---

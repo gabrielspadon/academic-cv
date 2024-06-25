@@ -36,4 +36,5 @@ tags:
 - Spatial Analytics
 - Temporal Analytics
 - Human Phenomena
+reading_time: false
 ---

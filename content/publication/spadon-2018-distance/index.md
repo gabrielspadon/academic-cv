@@ -28,4 +28,5 @@ tags:
 - Distance-Based Analysis
 - Pattern Discovery
 - City Planning
+reading_time: false
 ---

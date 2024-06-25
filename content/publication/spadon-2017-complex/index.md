@@ -38,4 +38,5 @@ tags:
 - Urban Areas
 - Criminal Communities
 - Data Preparation
+reading_time: false
 ---

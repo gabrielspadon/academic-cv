@@ -32,4 +32,5 @@ tags:
 - Medical Prognosis
 - Mimic-III Dataset
 - Bidirectional Neural Networks
+reading_time: false
 ---

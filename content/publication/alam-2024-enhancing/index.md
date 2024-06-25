@@ -34,4 +34,5 @@ tags:
 - Heterogeneous Movement Patterns
 - AIS Data
 - Short-Term Prediction
+reading_time: false
 ---

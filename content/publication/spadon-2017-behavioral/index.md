@@ -31,4 +31,5 @@ tags:
 - Crime Spread
 - Public Safety
 - Urban Street Networks
+reading_time: false
 ---

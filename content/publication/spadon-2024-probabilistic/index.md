@@ -43,4 +43,5 @@ tags:
 - AIS Data
 - Deep Learning
 - Decision Support System
+reading_time: false
 ---

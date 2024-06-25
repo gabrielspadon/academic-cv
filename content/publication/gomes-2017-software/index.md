@@ -41,4 +41,5 @@ tags:
 - Teaching Methodology
 - Programming Skills
 - Software Engineering Education
+reading_time: false
 ---

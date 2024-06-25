@@ -28,4 +28,5 @@ tags:
 - Collaborative Tools
 - Formal Language
 - Automata Courses
+reading_time: false
 ---

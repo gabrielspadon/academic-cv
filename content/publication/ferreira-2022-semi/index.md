@@ -37,4 +37,5 @@ tags:
 - AIS Data
 - Trajectory Geometry
 - Recurrent Neural Networks
+reading_time: false
 ---

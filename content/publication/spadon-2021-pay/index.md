@@ -48,4 +48,5 @@ tags:
 - Graph Evolution
 - Recurrent Neural Networks
 - Multivariate Data
+reading_time: false
 ---
