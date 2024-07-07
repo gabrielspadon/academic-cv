@@ -1,4 +1,5 @@
 module github.com/HugoBlox/hugo-blox-builder/starters/academic-cv
+module github.com/wowchemy/starter-hugo-research-group
 
 go 1.19
 
