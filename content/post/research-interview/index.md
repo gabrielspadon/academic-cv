@@ -18,8 +18,6 @@ tags:
   - smartWhales
 ---
 
-{{< toc mobile_only=true is_open=true >}}
-
 > Atlantic Canada serves as a hub for the shipping industry and an access point to the Atlantic and Arctic oceans. With ports spread across four provinces, shipping vessels are vital for the transfer of goods.
 
 > However, collisions between ships and marine mammals are an ongoing concern. The good news: researchers are finding new ways of predicting shipping movements to avoid encounters with marine life.
