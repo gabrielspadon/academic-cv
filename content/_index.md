@@ -71,4 +71,21 @@ sections:
       # Reduce spacing
       spacing:
         padding: [0, 0, 0, 0]
+  - block: contact
+    id: contact
+    content:
+      title: Contact
+      # Choose a map provider in `params.yaml` to show a map from these coordinates
+      coordinates:
+        latitude: '44.637521'
+        longitude: '-63.587685'  
+      # Automatically link email and phone or display as text?
+      autolink: true
+      # Email form provider
+      form:
+        provider: formspree
+        formspree:
+          id: spadon@dal.ca
+    design:
+      columns: '2'
 ---
