@@ -21,6 +21,7 @@ highlight_name: true
 
 # Role/position/tagline
 role: Assistant Professor
+user_groups: ["Principal Investigators"]
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
