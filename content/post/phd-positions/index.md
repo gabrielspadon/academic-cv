@@ -16,6 +16,8 @@ tags:
   - Dalhousie
 ---
 
+{{< toc mobile_only=true is_open=true >}}
+
 ## Research Area
 
 Mobility is crucial for human life as it affects various aspects of our biology, society, economy, and culture. Human movement has historically influenced societies through population and environmental changes, and it continues to be a natural occurrence despite modern limitations. Similarly, maritime transportation has been fundamental to global trade since the Age of Exploration. It remains one of the most important methods of coordinating and moving goods, accounting for over 80% of the world's trade volume today. The ability to move efficiently across vast distances by sea has not only shaped economic landscapes but also fostered cultural exchange and technological advancements, underscoring the significance of all forms of mobility.
