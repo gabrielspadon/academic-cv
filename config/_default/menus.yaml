@@ -16,6 +16,3 @@ main:
   - name: Projects
     url: projects/
     weight: 20
-  - name: People
-    url: people
-    weight: 30
