@@ -24,7 +24,7 @@ tags:
 
 > However, collisions between ships and marine mammals are an ongoing concern. The good news: researchers are finding new ways of predicting shipping movements to avoid encounters with marine life.
 
-> Dr. Gabriel Spadon, funded by the Ocean Frontier Institute’s Seed Fund program, is building a new Artificial Intelligence (AI) model to better predict the future movement of ships in the Gulf of St. Lawrence. The goal is to minimize the likelihood of whale strikes from passing ships.
+> Dr. Gabriel Spadon, an international postdoctoral fellow with the Ocean Frontier Institute, is building a new Artificial Intelligence (AI) model to better predict the future movement of ships in the Gulf of St. Lawrence. The goal is to minimize the likelihood of whale strikes from passing ships.
 
 > The research is being done in partnership with the smartWhales initiative, led by DHI Water & Environment and WSP, and funded by the Canadian Space Agency (CSA) and Mitacs, in collaboration with Fisheries and Oceans Canada and Transport Canada.
 
