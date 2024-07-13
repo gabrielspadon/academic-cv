@@ -41,6 +41,8 @@ profiles:
     url: https://scholar.google.com/citations?user=bfdGsGUAAAAJ&hl=en
   - icon: academicons/orcid
     url: https://orcid.org/0000-0001-8437-4349
+  - icon: researchgate.svg
+    url: https://www.researchgate.net/profile/Gabriel_Spadon
 
 interests:
   - ⚒️ Data Mining
