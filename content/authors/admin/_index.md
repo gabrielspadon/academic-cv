@@ -38,13 +38,13 @@ profiles:
   - icon: brands/linkedin
     url: https://www.linkedin.com/in/gabrielspadon/
   - icon: academicons/google-scholar
-    url: https://scholar.google.com/citations?user=bfdGsGUAAAAJ&hl=en
+    url: https://scholar.google.com/citations?user=bfdGsGUAAAAJ
   - icon: academicons/orcid
     url: https://orcid.org/0000-0001-8437-4349
-  - icon: academicons/researchgate
-    url: https://www.researchgate.net/profile/Gabriel_Spadon
   - icon: academicons/lattes
     url: http://lattes.cnpq.br/7858646104531965
+  - icon: academicons/researchgate
+    url: https://www.researchgate.net/profile/Gabriel_Spadon
 
 interests:
   - ⚒️ Data Mining
