@@ -24,7 +24,7 @@ sections:
         color: black
         image:
           # Add your image background to `assets/media/`.
-          filename: hfx-beach.svg
+          filename: stacked-peaks.svg
           filters:
             brightness: 0.9
           size: cover
