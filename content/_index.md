@@ -24,7 +24,7 @@ sections:
         color: black
         image:
           # Add your image background to `assets/media/`.
-          filename: stacked-peaks.svg
+          filename: queensland-beach.jpeg
           filters:
             brightness: 0.9
           size: cover
