@@ -25,7 +25,7 @@ role: Assistant Professor
 # Organizations/Affiliations to display in Biography blox
 organizations:
   - name: Dalhousie Univeristy
-    url: https://www.dal.ca/faculty/computerscience.html
+    url: https://www.dal.ca/faculty/computerscience/faculty-staff/Gabriel_Spadon.html
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
@@ -69,45 +69,25 @@ education:
     date_start: 2011-01-01
     date_end: 2015-12-31
 work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
-    company_url: ''
-    company_logo: ''
-    date_start: 2021-01-01
-    date_end: 2021-12-31
-    summary: TODO
-  - position: Backend Software Engineer
-    company_name: X
-    company_url: ''
-    company_logo: ''
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: TODO
+  - position: Assistant Professor
+    company_name: Dalhousie University
+    company_url: 'https://dal.ca/'
+    company_logo: 'https://www.dal.ca/content/experience-fragments/www/global/homepage-header/master/_jcr_content/root/wrapper/flex_wrapper/image.coreimg.svg/1709069699013/dalhousie-logo-black.svg'
+    date_start: 2024-07-01
+    date_end: 
+    summary: 
 
 # Awards.
 #   Add/remove as many awards below as you like.
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
-  - title: Neural Networks and Deep Learning
-    url: https://www.coursera.org/learn/neural-networks-deep-learning
-    date: '2023-11-25'
+  - title: Deep Learning Specialization
+    url: https://www.coursera.org/account/accomplishments/verify/FFFYJZ7297WP
+    date: '2019-06-05'
     awarder: Coursera
     icon: coursera
-    summary: TODO
-  - title: Blockchain Fundamentals
-    url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-    date: '2023-07-01'
-    awarder: edX
-    icon: edx
-    summary: TODO
-  - title: 'Object-Oriented Programming in R'
-    url: https://www.datacamp.com/courses/object-oriented-programming-with-s3-and-r6-in-r
-    certificate_url: https://www.datacamp.com
-    date: '2023-01-21'
-    awarder: datacamp
-    icon: datacamp
-    summary: TODO
+    summary: 
 ---
 
 ## About Me
