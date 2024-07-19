@@ -11,8 +11,8 @@ date: '2024-01-01'
 publishDate: '2024-06-25T19:31:11.944793Z'
 publication_types:
 - article-journal
-publication: '*Scientific Reports (to appear)*'
-doi: 10.48550/arXiv.2401.13098
+publication: '*Scientific Reports*'
+doi: 10.1038/s41598-024-67552-2
 abstract: Aquatic non-indigenous species (NIS) pose significant threats to biodiversity,
   disrupting ecosystems and inflicting substantial economic damages across agriculture,
   forestry, and fisheries. Due to the fast growth of global trade and transportation
