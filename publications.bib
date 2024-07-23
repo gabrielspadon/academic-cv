@@ -3,8 +3,6 @@
     author        = {Emanuele Carlini and Domenico Di Gangi and Vinicius Monteiro de Lira and Hanna Kavalionak and Gabriel Spadon and Amilcar Soares},
     year          = {2024},
     eprint        = {2407.09571},
-    archivePrefix = {arXiv},
-    primaryClass  = {cs.LG},
     doi           = {10.48550/arXiv.2407.09571},
     eprinttype    = {arXiv},
     abstract      = {Seaports play a crucial role in the global economy, and researchers have sought to understand their significance through various studies. In this paper, we aim to explore the common characteristics shared by important ports by analyzing the network of connections formed by vessel movement among them. To accomplish this task, we adopt a bottom-up network construction approach that combines three years' worth of AIS (Automatic Identification System) data from around the world, constructing a Ports Network that represents the connections between different ports. Through such representation, we use machine learning to measure the relative significance of different port features. Our model examined such features and revealed that geographical characteristics and the depth of the port are indicators of a port's significance to the Ports Network. Accordingly, this study employs a data-driven approach and utilizes machine learning to provide a comprehensive understanding of the factors contributing to ports' importance. The outcomes of our work are aimed to inform decision-making processes related to port development, resource allocation, and infrastructure planning in the industry.},
@@ -19,8 +17,6 @@
     author        = {Gabriel Spadon and Jay Kumar and Jinkun Chen and Matthew Smith and Casey Hilliard and Sarah Vela and Romina Gehrmann and Claudio DiBacco and Stan Matwin and Ronald Pelot},
     year          = {2024},
     eprint        = {2407.08082},
-    archivePrefix = {arXiv},
-    primaryClass  = {cs.DB},
     doi           = {10.48550/arXiv.2407.08082}, 
     eprinttype    = {arXiv},
     abstract      = {Efficiently handling Automatic Identification System (AIS) data is vital for enhancing maritime safety and navigation, yet is hindered by the system's high volume and error-prone datasets. This paper introduces the Automatic Identification System Database (AISdb), a novel tool designed to address the challenges of processing and analyzing AIS data. AISdb is a comprehensive, open-source platform that enables the integration of AIS data with environmental datasets, thus enriching analyses of vessel movements and their environmental impacts. By facilitating AIS data collection, cleaning, and spatio-temporal querying, AISdb significantly advances AIS data research. Utilizing AIS data from various sources, AISdb demonstrates improved handling and analysis of vessel information, contributing to enhancing maritime safety, security, and environmental sustainability efforts.},
@@ -28,6 +24,20 @@
     publisher     = {arXiv},
     venue         = {arXiv.org},
     journal       = {arXiv preprint arXiv:2407.08082},
+}
+
+@Article{spadon2024probabilistic,
+  author     = {Spadon, Gabriel and Kumar, Jay and Eden, Derek and van Berkel, Josh and Foster, Tom and Soares, Amilcar and Fablet, Ronan and Matwin, Stan and Pelot, Ronald},
+  journal    = {arXiv preprint arXiv:2310.18948},
+  title      = {Multi-Path Long-Term Vessel Trajectories Forecasting with Probabilistic Feature Fusion for Problem Shifting},
+  year       = {2024},
+  abstract   = {This paper addresses the challenge of boosting the precision of multi-path long-term vessel trajectory forecasting on engineered sequences of Automatic Identification System (AIS) data using feature fusion for problem shifting. We have developed a deep auto-encoder model and a phased framework approach to predict the next 12 hours of vessel trajectories using 1 to 3 hours of AIS data as input. To this end, we fuse the spatiotemporal features from the AIS messages with probabilistic features engineered from historical AIS data referring to potential routes and destinations. As a result, we reduce the forecasting uncertainty by shifting the problem into a trajectory reconstruction problem. The probabilistic features have an F1-Score of approximately 85% and 75% for the vessel route and destination prediction, respectively. Under such circumstances, we achieved an R2 Score of over 98% with different layer structures and varying feature combinations; the high R2 Score is a natural outcome of the well-defined shipping lanes in the study region. However, our proposal stands out among competing approaches as it demonstrates the capability of complex decision-making during turnings and route selection. Furthermore, we have shown that our model achieves more accurate forecasting with average and median errors of 11km and 6km, respectively, a 25% improvement from the current state-of-the-art approaches. The resulting model from this proposal is deployed as part of a broader Decision Support System to safeguard whales by preventing the risk of vessel-whale collisions under the smartWhales initiative and acting on the Gulf of St. Lawrence in Atlantic Canada.},
+  copyright  = {arXiv.org perpetual, non-exclusive license},
+  doi        = {10.48550/arXiv.2310.18948},
+  eprint     = {2310.18948},
+  eprinttype = {arXiv},
+  keywords   = {Vessel Trajectory Forecasting, Probabilistic Feature Fusion, AIS Data, Deep Learning, Decision Support System},
+  publisher  = {arXiv},
 }
 
 @InBook{spadon2017complex,
@@ -626,20 +636,6 @@
   keywords       = {Fishing Activity Detection, Semi-Supervised Learning, AIS Data, Trajectory Geometry, Recurrent Neural Networks},
   publisher      = {MDPI AG},
   pubmedid       = {36015824},
-}
-
-@Article{spadon2024probabilistic,
-  author     = {Spadon, Gabriel and Kumar, Jay and Eden, Derek and van Berkel, Josh and Foster, Tom and Soares, Amilcar and Fablet, Ronan and Matwin, Stan and Pelot, Ronald},
-  journal    = {arXiv preprint arXiv:2310.18948},
-  title      = {Multi-Path Long-Term Vessel Trajectories Forecasting with Probabilistic Feature Fusion for Problem Shifting},
-  year       = {2024},
-  abstract   = {This paper addresses the challenge of boosting the precision of multi-path long-term vessel trajectory forecasting on engineered sequences of Automatic Identification System (AIS) data using feature fusion for problem shifting. We have developed a deep auto-encoder model and a phased framework approach to predict the next 12 hours of vessel trajectories using 1 to 3 hours of AIS data as input. To this end, we fuse the spatiotemporal features from the AIS messages with probabilistic features engineered from historical AIS data referring to potential routes and destinations. As a result, we reduce the forecasting uncertainty by shifting the problem into a trajectory reconstruction problem. The probabilistic features have an F1-Score of approximately 85% and 75% for the vessel route and destination prediction, respectively. Under such circumstances, we achieved an R2 Score of over 98% with different layer structures and varying feature combinations; the high R2 Score is a natural outcome of the well-defined shipping lanes in the study region. However, our proposal stands out among competing approaches as it demonstrates the capability of complex decision-making during turnings and route selection. Furthermore, we have shown that our model achieves more accurate forecasting with average and median errors of 11km and 6km, respectively, a 25% improvement from the current state-of-the-art approaches. The resulting model from this proposal is deployed as part of a broader Decision Support System to safeguard whales by preventing the risk of vessel-whale collisions under the smartWhales initiative and acting on the Gulf of St. Lawrence in Atlantic Canada.},
-  copyright  = {arXiv.org perpetual, non-exclusive license},
-  doi        = {10.48550/arXiv.2310.18948},
-  eprint     = {2310.18948},
-  eprinttype = {arXiv},
-  keywords   = {Vessel Trajectory Forecasting, Probabilistic Feature Fusion, AIS Data, Deep Learning, Decision Support System},
-  publisher  = {arXiv},
 }
 
 @InProceedings{haranwala2023augmentation,
