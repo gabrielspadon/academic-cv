@@ -16,6 +16,6 @@ main:
   - name: Projects
     url: projects/
     weight: 20
-  - name: Funded Positions
+  - name: PhD & MSc Positions
     url: post/phd-positions/
     weight: 30
