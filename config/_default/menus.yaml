@@ -16,3 +16,6 @@ main:
   - name: Projects
     url: projects/
     weight: 20
+  - name: Study in Canada 🇨🇦
+    url: projects/
+    weight: 30
