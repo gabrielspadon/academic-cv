@@ -16,9 +16,9 @@ main:
   - name: Projects
     url: projects/
     weight: 20
-  - name: PhD Positions
+  - name: Open Positions
     url: post/phd-positions/
     weight: 30
   - name: Research Group
-    url: spadon.com.br
+    url: http://spadon.com.br
     weight: 40
