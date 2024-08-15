@@ -19,6 +19,6 @@ main:
   - name: Open Positions
     url: post/phd-positions/
     weight: 30
-  - name: Research Group
+  - name: MAPS Lab
     url: http://spadon.com.br
     weight: 40
