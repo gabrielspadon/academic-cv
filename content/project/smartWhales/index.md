@@ -1,5 +1,5 @@
 ---
-title: 🐋 smartWhales
+title: smartWhales 🐋
 date: 2024-10-09
 external_link: https://www.wsp.com/en-ca/projects/smartwhales
 tags:
