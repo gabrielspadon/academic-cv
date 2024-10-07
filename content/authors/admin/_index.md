@@ -77,21 +77,9 @@ work:
     company_logo: 'https://www.dal.ca/content/experience-fragments/www/global/homepage-header/master/_jcr_content/root/wrapper/flex_wrapper/image.coreimg.svg/1709069699013/dalhousie-logo-black.svg'
     date_start: 2024-07-01
     date_end: 
-    summary: 
-
-# Awards.
-#   Add/remove as many awards below as you like.
-#   Only `title`, `awarder`, and `date` are required.
-#   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
-awards:
-  - title: Deep Learning Specialization
-    url: https://www.coursera.org/account/accomplishments/verify/FFFYJZ7297WP
-    date: '2019-06-05'
-    awarder: Coursera
-    icon: coursera
-    summary: 
+    summary:
 ---
 
 ## About Me
 
-I am an Assistant Professor at the Faculty of Computer Science at Dalhousie University, Halifax - NS, Canada. I hold a Ph.D. and an MSc in Computer Science from the University of Sao Paulo, Sao Carlos - SP, Brazil. My research focuses on spatio-temporal analytics, time-series forecasting, and complex network mining, with a deep involvement in Data Science & Engineering and GeoInformatics, and a particular interest in mobility and trajectory-related problems.
+I am an Assistant Professor at the Faculty of Computer Science at Dalhousie University, Halifax - NS, Canada. I hold a Ph.D. and an MSc in Computer Science from the University of Sao Paulo, Sao Carlos - SP, Brazil. My research focuses on spatio-temporal analytics, time-series forecasting, and complex network mining, with a deep involvement in data science and engineering, as well as geoinformatics, and a particular interest in mobility and trajectory-related problems.
