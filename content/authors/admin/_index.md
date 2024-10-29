@@ -47,7 +47,7 @@ profiles:
 interests:
   - ⚒️ Data Mining
   - 🤖 Machine Learning
-  - 🔗 Complex Networks
+  - 🔗 Network Science
   - 🌎 GeoInformatics
 
 education:
