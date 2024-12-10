@@ -16,6 +16,3 @@ main:
   - name: Projects
     url: projects/
     weight: 20
-  - name: Open Positions
-    url: post/phd-positions/
-    weight: 30
