@@ -30,4 +30,16 @@ sections:
           size: cover
           position: center
           parallax: true
+- block: collection
+    id: publications
+    content:
+      title: Recent Publications
+      text: ""
+      count: 5
+      filters:
+        folders:
+          - publication
+        exclude_featured: false
+    design:
+      view: citation
 ---
