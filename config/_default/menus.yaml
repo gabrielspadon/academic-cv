@@ -10,3 +10,12 @@ main:
   - name: Publications
     url: /#publications
     weight: 11
+  - name: News
+    url: /#news
+    weight: 12
+  - name: Projects
+    url: projects/
+    weight: 20
+  - name: Open Positions
+    url: post/phd-positions/
+    weight: 30
