@@ -45,13 +45,13 @@ sections:
   - block: collection
     id: news
     content:
-      title: Recent News
+      title: 
       subtitle: ''
       text: ''
       # Page type to display. E.g. post, talk, publication...
       page_type: post
       # Choose how many pages you would like to display (0 = all pages)
-      count: 3
+      count: 0
       # Filter on criteria
       filters:
         author: ""
