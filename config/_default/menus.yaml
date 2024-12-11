@@ -13,6 +13,6 @@ main:
   - name: Dalhousie FGS
     url: https://www.dal.ca/faculty/gradstudies.html
     weight: 30
-  - name: MAPS Lab
-    url: https://mapslab-website.pages.dev/
-    weight: 40
+#  - name: MAPS Lab
+#    url: https://mapslab-website.pages.dev/
+#    weight: 40
